@@ -1,61 +1,55 @@
-16S rRNA Microbiome Analysis
+# 16S rRNA Microbiome Analysis
 
-Overview
+## Overview
 
-This project focuses on the analysis and visualization of 16S rRNA sequencing data to explore microbial community composition, diversity, and differences between sample groups using R.
+This project focuses on the analysis and visualization of 16S rRNA sequencing data using R. The aim is to explore microbial community composition, diversity, and differences between sample groups.
 
-The analysis uses microbiome analysis tools to investigate taxonomic composition, compare microbial communities, and identify potential differences in microbial abundance.
+## Objectives
 
-Objectives
+- Explore microbial community composition.
+- Analyze microbial diversity.
+- Compare microbial communities between samples.
+- Identify differentially abundant microbial taxa.
+- Visualize taxonomic composition and phylogenetic relationships.
 
-Explore microbial community composition.
+## Tools and Packages
 
-Analyze alpha and beta diversity.
+- **R**
+- **phyloseq** – Microbiome data management and analysis
+- **ggplot2** – Data visualization
+- **microbiomeMarker** – Microbial biomarker analysis
+- **vegan** – Ecological and diversity analysis
 
-Visualize microbial community differences between groups.
+## Analysis Workflow
 
-Perform taxonomic composition analysis.
+1. Data preparation and organization
+2. Taxonomic composition analysis
+3. Microbial community diversity analysis
+4. Beta diversity analysis and PCoA visualization
+5. Differential abundance analysis
+6. Phylogenetic tree visualization
 
-Identify differentially abundant microbial taxa.
+## Visualizations
 
-Visualize phylogenetic relationships between microbial groups.
+The project includes visualizations such as:
 
-Tools and Packages
+- Taxonomic composition plots
+- PCoA plots based on UniFrac distances
+- Differential abundance plots
+- Circular phylogenetic trees
 
-R
+## Key Skills
 
-phyloseq – Microbiome data management and analysis
+- 16S rRNA microbiome analysis
+- Microbial diversity analysis
+- Taxonomic profiling
+- Differential abundance analysis
+- Phylogenetic visualization
+- R programming and data visualization
 
-ggplot2 – Data visualization
+## Author
 
-microbiomeMarker – Microbial biomarker analysis
+**Selda Akdal**
 
-vegan – Ecological and diversity analysis
+- GitHub: [seldaaakdal-1](https://github.com/seldaaakdal-1)
 
-Analysis Workflow
-
-Data Preparation: Import and organize microbiome sequencing data.
-
-Taxonomic Analysis: Explore the distribution of microbial taxa.
-
-Alpha Diversity: Evaluate microbial diversity within individual samples.
-
-Beta Diversity: Compare microbial community composition between samples.
-
-PCoA Visualization: Visualize differences in community composition using distance-based ordination.
-
-Differential Abundance Analysis: Investigate taxa that differ between groups.
-
-Phylogenetic Visualization: Explore relationships between microbial taxa.
-
-Visualizations
-
-The project includes microbiome visualizations such as:
-
-Taxonomic composition plots
-
-Principal Coordinates Analysis (PCoA)
-
-Differential abundance plots
-
-Circular phylogenetic trees
