@@ -47,9 +47,3 @@ The project includes visualizations such as:
 - Phylogenetic visualization
 - R programming and data visualization
 
-## Author
-
-**Selda Akdal**
-
-- GitHub: [seldaaakdal-1](https://github.com/seldaaakdal-1)
-
